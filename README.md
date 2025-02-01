@@ -1,2 +1,1 @@
-# weather-app
-task 5
+Simple Weather Application Using HTML, CSS, JavaScript.
